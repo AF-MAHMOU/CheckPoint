@@ -1,0 +1,7 @@
+checkpoint-app/node_modules/
+checkpoint-app/dist/
+checkpoint-app/src-tauri/target/
+checkpoint-app/src-tauri/gen/
+checkpoint-app/src-tauri/Cargo.lock
+checkpoint-app/.DS_Store
+*.log
