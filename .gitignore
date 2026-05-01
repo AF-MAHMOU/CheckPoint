@@ -5,3 +5,18 @@ checkpoint-app/src-tauri/gen/
 checkpoint-app/src-tauri/Cargo.lock
 checkpoint-app/.DS_Store
 *.log
+
+# Secrets and local environment (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.p12
+*.key
+**/secrets.*
+
+# OS / tooling noise
+Thumbs.db
+.DS_Store
+.idea/
+.cursor/

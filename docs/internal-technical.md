@@ -1,6 +1,6 @@
-# Internal Technical Notes (Private)
+# Implementation Notes (v1)
 
-This document tracks the implementation-level behavior of the current v1 codebase.
+This document tracks the implementation-level behavior of the current v1 codebase for contributors.
 
 ## 1) Runtime Architecture (Current)
 

@@ -47,8 +47,7 @@ High-level structure:
 ## Project Structure
 
 - `checkpoint-app/`: Tauri + React application
-- `docs/`: private technical documentation and roadmap
-- `assets/`: project assets and branding materials
+- `docs/`: system design, roadmap, and implementation notes
 
 ## Quick Start (Development)
 
@@ -68,7 +67,7 @@ Prerequisites:
 
 - Public/dev app guide: `checkpoint-app/README.md`
 - System design and roadmap: `docs/v1-system-design.md`, `docs/v1-roadmap.md`
-- Internal implementation notes: `docs/internal-technical.md`
+- Contributor implementation notes: `docs/internal-technical.md`
 
 ## Status
 
